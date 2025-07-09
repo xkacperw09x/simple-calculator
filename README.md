@@ -24,3 +24,5 @@ Make sure you have Python installed, then run:
 
 ```bash
 python main.py
+
+![example](https://github.com/user-attachments/assets/ad023c4d-4e1c-4101-a622-2ed6575c4564)
