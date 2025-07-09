@@ -20,9 +20,9 @@ Simple Calculator is a Python console application that allows users to perform b
 
 ## How to Run
 
+![example](https://github.com/user-attachments/assets/c3fd85fb-37d2-4877-8ef9-edacf97264e4)
+
 Make sure you have Python installed, then run:
 
 ```bash
 python main.py
-
-![example](https://github.com/user-attachments/assets/c3fd85fb-37d2-4877-8ef9-edacf97264e4)
